@@ -12,30 +12,7 @@
 
 <p align="left">
 ✨ Creating bugs since 2021<br>
-Ever since I wrote my first "Hello, World!" program, I've been on a journey of continuous learning and problem-solving. From debugging endless lines of code to developing full-fledged AI models, every bug I fix brings me closer to mastering my craft.<br><br>
-
-📚 I'm currently learning:<br><br>
-- Advanced Computer Vision & Object Detection (YOLOv8, YOLOv9, YOLOv10)<br>
-- Deep Learning & Model Optimization (ResNet, CNN, Transformer-based models)<br>
-- Brain-Computer Interface (BCI) Systems & Neuro-Fuzzy Logic<br>
-- Natural Language Processing (NLP), LangChain, and Large Language Models (LLMs)<br>
-- Image Segmentation & Medical AI Applications (Brain MRI Tumor Classification)<br>
-- Real-Time AI in Sports Analytics & Smart Home Automation<br><br>
-
-🎯 Goals:<br><br>
-- Develop AI-driven solutions that make an impact (from smart homes to medical AI)<br>
-- Master neuro-fuzzy systems for intelligent control applications<br>
-- Build intelligent language applications using LLMs and LangChain<br>
-- Optimize real-time tracking, segmentation, and NLP models for real-world use<br>
-- Contribute to open-source projects and share knowledge with the community<br><br>
-
-🎲 Fun fact:<br><br>
-I see the world in tensors, matrices, and probability distributions.<br>
-If you say “bug,” I don’t think of insects—I think of debugging my code at 3 AM.<br>
-My idea of fun? Training a deep learning model and watching it converge!<br><br>
-
-🚀 Let's connect and innovate!<br>
-If you're passionate about AI, deep learning, LLMs, and real-world applications, let’s collaborate. Check out my repositories and feel free to reach out!
+Ever since I wrote my first "Hello, World!" program, I've been on a journey of continuous learning and problem-solving. From debugging endless lines of code to developing full-fledged AI models, every bug I fix brings me closer to mastering my craft.
 </p>
 
 ###
@@ -49,7 +26,7 @@ If you're passionate about AI, deep learning, LLMs, and real-world applications,
 <p align="left">
 I've built a strong foundation in <b>Machine Learning, Deep Learning, and Computer Vision</b> through hands-on projects and academic research.  
 With the rise of generative AI and LLMs like ChatGPT, I’ve expanded my focus toward <b>Natural Language Processing (NLP)</b> and <b>Large Language Models (LLMs)</b>.  
-Currently, I’m diving deep into <b>LangChain</b> to design intelligent conversational systems and integrate AI reasoning into real-world applications.
+Currently, I’m exploring <b>LangChain</b> to design intelligent conversational systems and integrate AI reasoning into real-world applications.
 </p>
 
 ###
@@ -72,6 +49,47 @@ I’ve worked on several <b>data warehousing projects</b> involving data ingesti
 I implemented the <b>Medallion Architecture</b> (Bronze, Silver, Gold layers) for structured data pipelines and optimized ETL workflows.  
 Later, I explored <b>Snowflake</b> and <b>dbt</b> (Data Build Tool) both locally and through the dbt Cloud platform, where I built scalable and maintainable transformation pipelines.  
 These projects strengthened my understanding of <b>data modeling, orchestration, and analytics engineering</b>.
+</p>
+
+###
+
+<h2 align="left">🎯 Goals</h2>
+
+###
+
+<p align="left">
+I’m eager to seize opportunities where I can apply my skills to solve <b>real-world problems</b> and make a measurable impact.  
+My ultimate goal is to create <b>AI-driven systems</b> that bridge the gap between technology and human experience — from <b>smart automation</b> to <b>medical diagnostics</b> and <b>intelligent analytics</b>.<br><br>
+
+I aim to:<br>
+- Develop impactful AI applications that improve decision-making and efficiency<br>
+- Master <b>neuro-fuzzy systems</b> for intelligent control and adaptability<br>
+- Build robust <b>LLM-based agents</b> using LangChain and modern NLP techniques<br>
+- Contribute to open-source and collaborative AI projects<br>
+- Continuously learn, adapt, and innovate with purpose
+</p>
+
+###
+
+<h2 align="left">🎲 Fun Fact</h2>
+
+###
+
+<p align="left">
+I see the world in tensors, matrices, and probability distributions.<br>
+If you say “bug,” I don’t think of insects—I think of debugging my code at 3 AM.<br>
+My idea of fun? Training a deep learning model and watching it converge!
+</p>
+
+###
+
+<h2 align="left">🚀 Let's Connect & Innovate</h2>
+
+###
+
+<p align="left">
+If you're passionate about <b>AI, deep learning, NLP, or real-world applications</b>, let’s collaborate!  
+Check out my repositories and feel free to reach out — I’m always excited to discuss new ideas and projects.
 </p>
 
 ###
