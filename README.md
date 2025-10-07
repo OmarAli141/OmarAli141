@@ -40,6 +40,42 @@ If you're passionate about AI, deep learning, LLMs, and real-world applications,
 
 ###
 
+<h2 align="left">What I've Learned</h2>
+
+###
+
+<h3 align="left">🤖 AI Field</h3>
+
+<p align="left">
+I've built a strong foundation in <b>Machine Learning, Deep Learning, and Computer Vision</b> through hands-on projects and academic research.  
+With the rise of generative AI and LLMs like ChatGPT, I’ve expanded my focus toward <b>Natural Language Processing (NLP)</b> and <b>Large Language Models (LLMs)</b>.  
+Currently, I’m diving deep into <b>LangChain</b> to design intelligent conversational systems and integrate AI reasoning into real-world applications.
+</p>
+
+###
+
+<h3 align="left">📊 Data Science</h3>
+
+<p align="left">
+My experience in Data Science includes <b>data cleaning, feature engineering, exploratory data analysis, and predictive modeling</b>.  
+I've applied statistical techniques and machine learning algorithms to derive insights from complex datasets.  
+I focus on building end-to-end pipelines — from <b>data preprocessing to model evaluation and visualization</b> — using tools like <b>Python, Pandas, Scikit-learn, and Power BI</b>.  
+I also enjoy solving analytical problems and translating data into actionable business insights.
+</p>
+
+###
+
+<h3 align="left">🧱 Data Engineering</h3>
+
+<p align="left">
+I’ve worked on several <b>data warehousing projects</b> involving data ingestion, transformation, and modeling.  
+I implemented the <b>Medallion Architecture</b> (Bronze, Silver, Gold layers) for structured data pipelines and optimized ETL workflows.  
+Later, I explored <b>Snowflake</b> and <b>dbt</b> (Data Build Tool) both locally and through the dbt Cloud platform, where I built scalable and maintainable transformation pipelines.  
+These projects strengthened my understanding of <b>data modeling, orchestration, and analytics engineering</b>.
+</p>
+
+###
+
 <h2 align="left">I code with</h2>
 
 ###
@@ -82,5 +118,3 @@ If you're passionate about AI, deep learning, LLMs, and real-world applications,
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-###
