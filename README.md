@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Omar and I'm a Data Scientist, Deep Learning Engineer, and NLP Enthusiast from Egypt.</p>
+<p align="left">My name is Omar and I'm an AI Engineer, Data Scientist, and Data Engineer from Egypt.</p>
 
 ###
 
